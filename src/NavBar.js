@@ -9,15 +9,16 @@ export default () => {
 
 const styles = {
   navBar: {
-    background: "black",
+    background: "#111",
     width: "100%",
     display: "flex",
     justifyContent: "flex-start",
-    height: "50px",
+    height: "55px",
   },
   navLink: {
     color: "white",
     cursor: "pointer",
     marginLeft: "20px",
+    fontSize: "16px",
   },
 };
