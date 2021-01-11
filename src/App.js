@@ -19,7 +19,8 @@ function App() {
       <Taylor />
       <James />
       <Dani />
-      <Landon/>
+      <Landon />
+      {bughere}
     </div>
   );
 }
