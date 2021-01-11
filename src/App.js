@@ -20,7 +20,7 @@ function App() {
       <James />
       <Dani />
       <Landon />
-      {bughere}
+      bye bug
     </div>
   );
 }
