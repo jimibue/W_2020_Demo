@@ -1,16 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-
 import Joshua from "./Joshua";
-
 import NavBar from "./NavBar";
 import Rachel from "./Rachel";
-
 import Taylor from "./Taylor";
 import James from "./James";
+import Dani from "./Dani";
 import Landon from "./Landon";
-
 
 function App() {
   return (
@@ -18,13 +15,11 @@ function App() {
       <NavBar />
       <Rachel />
       <div>YOYOYO</div>
-
       <Joshua />
       <Taylor />
-
       <James />
+      <Dani />
       <Landon/>
-
     </div>
   );
 }
