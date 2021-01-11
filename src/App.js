@@ -1,7 +1,12 @@
 import logo from "./logo.svg";
 import "./App.css";
+
 import NavBar from "./NavBar";
 import Rachel from "./Rachel";
+import Taylor from "./Taylor";
+import James from "./James";
+import Landon from "./Landon";
+
 
 function App() {
   return (
@@ -9,6 +14,10 @@ function App() {
       <NavBar />
       <Rachel />
       <div>YOYOYO</div>
+      <Taylor />
+      <James />
+      <Landon/>
+
     </div>
   );
 }
